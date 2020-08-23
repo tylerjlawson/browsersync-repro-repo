@@ -1,0 +1,12 @@
+{
+  "name": "node-http-server",
+  "version": "1.0.0",
+  "description": "Node.js example server starter project",
+  "scripts": {
+    "start": "gulp"
+  },
+  "dependencies": {
+    "browser-sync": "2.26.12",
+    "gulp": "4.0.2"
+  }
+}
